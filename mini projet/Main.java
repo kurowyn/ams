@@ -1,8 +1,7 @@
-import ui.MenuEnseignant;
+import ui.LoginMenu;
 
 public class Main {
-
     public static void main(String[] args) {
-        MenuEnseignant.afficherMenu();
+        LoginMenu.start();
     }
 }
